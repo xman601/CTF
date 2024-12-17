@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensics/Verify.md",
+                "file": "PicoCTF/Web Exploitation/filler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verify"
+              "title": "filler"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensics/Verify.md"
+                "file": "PicoCTF/Web Exploitation/filler.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Verify"
+              "title": "Outline of filler"
             }
           },
           {
@@ -173,20 +173,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91398d72127ed600",
+  "active": "4eb5c51dc00acb53",
   "lastOpenFiles": [
+    "PicoCTF/Reverse Engineering/filler.md",
+    "PicoCTF/Web Exploitation/filler.md",
+    "PicoCTF/General Skills/filler.md",
+    "PicoCTF/Cryptography/filler.md",
+    "PicoCTF/General Skills/Untitled",
+    "PicoCTF/Binary Exploitation/filler.md",
+    "PicoCTF/Forensics/Verify.md",
     "PicoCTF/Binary Exploitation",
     "PicoCTF/General Skills",
     "PicoCTF/Reverse Engineering",
     "PicoCTF/Cryptography",
     "PicoCTF/Web Exploitation",
-    "PicoCTF/Forensics/Verify.md",
     "PicoCTF/Forensics",
     "PicoCTF",
     "CTF",
     "https:/github.com/xman601/ctf",
-    "https:/github.com/xman601",
-    "https:/github.com",
     "Untitled.canvas",
     "CTF/PicoCTF/Forensics/Verify.md"
   ]
