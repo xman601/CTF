@@ -11,4 +11,4 @@ I've gotten bored of handing out flags as text. Wouldn't it be cool if they were
 1. ssh into client
 2. showed Qr code
 3. scanned QR code
-4. flag: picoCTF{p33k_@_b00_0194a007}
+4. Flag: **picoCTF{p33k_@_b00_0194a007}**

@@ -11,4 +11,4 @@ What was I last working on? I remember writing a note to help me remember...You 
 1.  download file 
 2.  git init
 3. commit message has flag
-4. flag: picoCTF{t1m3m@ch1n3_e8c98b3a}
+4. Flag: **picoCTF{t1m3m@ch1n3_e8c98b3a}**

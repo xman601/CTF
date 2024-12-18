@@ -12,4 +12,4 @@ Additional details will be available after launching your challenge instance.
 ## Steps Taken
 1. ssh into machine
 2. guess numbers by multiplying or dividing by 2 depending on the response
-3. flag: picoCTF{g00d_gu355_ee8225d0}
+3. Flag: **picoCTF{g00d_gu355_ee8225d0}**

@@ -12,4 +12,4 @@ Download the suspicious file [here](https://artifacts.picoctf.net/c_titan/7/fla
 3. pdf contains: 1n_pn9_&_pdf_53b741d6}
 4. rename to png
 5. png has : ![[flag2of2-final.png]] 
-6. flag: picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}
+6. Flag: **picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}**

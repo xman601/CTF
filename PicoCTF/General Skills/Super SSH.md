@@ -11,4 +11,4 @@ If you're not sure what a shell is, check out our Primer: [https://primer.picoc
 
 ## Steps Taken
 1. ssh into the machine on port 61015
-2. flag: picoCTF{s3cur3_c0nn3ct10n_65a7a106}
+2. Flag: **picoCTF{s3cur3_c0nn3ct10n_65a7a106}**
