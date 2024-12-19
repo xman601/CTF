@@ -8,6 +8,6 @@ People keep trying to trick my players with imitation flags. I want to make sure
 ## Steps Taken
 1. ssh into the machine 
 2. ls the directory 
-3. run "sha256sum files/* | grep [checksum]"
-4. run ./decrypt.sh files/[file].
+3. run `sha256sum files/* | grep <checksum>
+4. run `./decrypt.sh files/<file>
 5. Flag: **picoCTF{trust_but_verify_e018b574}**
