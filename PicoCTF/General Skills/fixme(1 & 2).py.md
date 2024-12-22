@@ -9,5 +9,5 @@ Fix the syntax error in this Python script to print the flag.
 ## Steps Taken
 1. download file onto pc 
 2. fix `.py` file and run it
-4. Flag 1: **picoCTF{1nd3nt1ty_cr1515_09ee727a}**
-5. Flag 2: **picoCTF{3qu4l1ty_n0t_4551gnm3nt_e8814d03}**
+3. Flag 1: **picoCTF{1nd3nt1ty_cr1515_09ee727a}**
+4. Flag 2: **picoCTF{3qu4l1ty_n0t_4551gnm3nt_e8814d03}**
