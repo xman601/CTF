@@ -8,4 +8,4 @@ Can you find the flag? [cat.jpg](https://mercury.picoctf.net/static/149ab4b27d1
 
 ## Steps Taken
 1. 
-3. Flag: ****
+3. Flag: **picoCTF{the_m3tadata_1s_modified}**
