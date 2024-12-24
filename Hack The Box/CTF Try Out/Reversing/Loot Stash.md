@@ -13,4 +13,4 @@ A giant stash of powerful weapons and gear have been dropped into the arena
 4. Flag: **HTB{n33dl3_1n_a_l00t_stack}**
 
 ## Files
-![[stash]]
+![[lootstash.zip]]

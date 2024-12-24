@@ -8,3 +8,6 @@ As the preparations come to an end, and The Fray draws near each day, our newly 
 ## Steps Taken
 1. 
 2. Flag: ****
+
+## Files
+![[forensics_an_unusual_sighting.zip]]
