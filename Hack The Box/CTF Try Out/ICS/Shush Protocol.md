@@ -9,7 +9,7 @@ The crew sets their sights on an abandoned fertilizer plant, a desolate structur
 1. download files
 2. open file in wireshark
 3. inspect packets
-4. Flag: **HTB{50m371m35_cU570m_p2070c01_423_n07_3n0u9h7}**
+4. Flag: **HTB{50m371m35_cu570m_p2070c01_423_n07_3n0u9h7}**
 
 ## Files
 ![[ics_shush_protocol.zip]]
